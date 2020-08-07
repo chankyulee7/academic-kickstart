@@ -14,26 +14,26 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Purdue University
+- name: Purdue University, West Lafayette, IN, USA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. candidate in Electrical and Computer Engineering at Purdue University, West Lafayette, USA. I am fortunate to be advised by Prof. Kaushik Roy and have the projects funded by the C-BRIC, one of six centers in JUMP, a SRC program. I received B.S. in Electrical and Electronics Engineering from Sungkyunkwan University (SKKU), South Korea, in 2015. I also studied at Hong Kong University of Science and Technology (HKUST) as an exchange student in Fall 2013. I worked at Nokia Bell Labs, New Jersey, as a graduate student intern in summer of 2018..
 
 interests:
-- Efficient and robust deep learning
-- Computer vision for event-based camera
+- Machine/Deep Learning
+- Computer Vision
 
 education:
   courses:
   - course: PhD in Electrical and Computer Engineering
-    institution: Purdue University
+    institution: Purdue University, West Lafayette, IN, USA
     year: Fall 2015 - present
   - course: BS in Electrical and Electronics Engineering
-    institution: Sungkyunkwan University (SKKU)
+    institution: Sungkyunkwan University (SKKU), Suwon, South Korea
     year: Spring 2009 - Spring 2015
   - course: Exchange Student Program, Electronic and Computer Engineering
-    institution: Hong Kong University of Science and Technology (HKUST)
+    institution: Hong Kong University of Science and Technology (HKUST), Hong Kong
     year: Fall 2013
     
 # Social/Academic Networking
