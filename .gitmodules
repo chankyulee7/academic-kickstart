@@ -5,3 +5,7 @@
 	path = chankyulee7.github.io
 	url = https://github.com/chankyulee7/chankyulee7.github.io
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/chankyulee7/chankyulee7.github.io.git
+	branch = master
